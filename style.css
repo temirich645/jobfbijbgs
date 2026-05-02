@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background: url("https://avatars.mds.yandex.net/i?id=014e331004b7cfacf342a81cff3820d4681e051c-5675359-images-thumbs&n=13");
+
+}
+
+h1, p {
+    text-align: center;
+}
+
+.music {
+    display: flex;
+    justify-content: center;
+    margin: 0 150px 0 150px;
+    width: 614px;
+    height: 200px;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+}
+
+header img {
+    width: 100%;
+    height: 100px;
+}
+
+iframe:hover {
+    width: 900px;
+    height: 200px;
+    transition: all 2s linear;
+}
